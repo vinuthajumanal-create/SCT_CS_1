@@ -1,0 +1,4 @@
+Enter your message: Secure
+Enter shift value: 7
+Type 'encrypt' or 'decrypt': encrypt
+Result: Zljbyl
